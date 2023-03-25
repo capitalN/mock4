@@ -1,112 +1,33 @@
 {
-  "users": [
-    {
-      "user": "fff",
-      "email": "faizalsid@gmail.com",
-      "password": "ff",
-      "repeat_password": "ff",
-      "id": "faizalsid@gmail.com"
-    }
-  ],
-  "hotels": [
+  "movies": [
     {
       "id": 1,
-      "category": "Family",
-      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/18863/medium/d76166ed64a59b84.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons": "2",
-      "capacity": "3",
-      "cost": "3000",
-      "booked": false
+      "poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "director": "Sam Raimi",
+      "year": "2020",
+      "genre": "Action",
+      "IMDB_Rating": 6.8,
+      "ticket": 200
     },
     {
       "id": 2,
-      "category": "Deluxe",
-      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons": "2",
-      "capacity": "3",
-      "cost": "3900",
-      "booked": false
+      "poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
+      "title": "I Am Legend",
+      "director": "Francis Lawrence",
+      "year": 2007,
+      "genre": "Horror",
+      "IMDB_Rating": 7.2,
+      "ticket": 200
     },
     {
-      "id": 3,
-      "category": "Suite",
-      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/13653/medium/79f13e2480df886d.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons": "2",
-      "capacity": "3",
-      "cost": "7800",
-      "booked": false
-    },
-    {
-      "id": 4,
-      "category": "Family",
-      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons": "2",
-      "capacity": "3",
-      "cost": "3500",
-      "booked": false
-    },
-    {
-      "id": 5,
-      "category": "Deluxe",
-      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/17536/medium/1628521e0b5dd874.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons": "2",
-      "capacity": "3",
-      "cost": "2700",
-      "booked": false
-    },
-    {
-      "id": 6,
-      "category": "Suite",
-      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/3120/medium/92f15dd81971d387.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons": "2",
-      "capacity": "3",
-      "cost": "7200",
-      "booked": false
-    },
-    {
-      "id": 7,
-      "category": "Suite",
-      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/17570/medium/cd929758e847d75d.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons": "2",
-      "capacity": "3",
-      "cost": "9000",
-      "booked": false
-    },
-    {
-      "id": 8,
-      "category": "Family",
-      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/108286/medium/9ce0258ed396ae27.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons": "2",
-      "capacity": "3",
-      "cost": "4500",
-      "booked": false
-    },
-    {
-      "id": 9,
-      "category": "Deluxe",
-      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/203166/medium/74b2119da5972213.jpg",
-      "type_of_room": "AC",
-      "bed_type": "Double",
-      "no_of_persons": "2",
-      "capacity": "3",
-      "cost": "5000",
-      "booked": false
+      "poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
+      "title": "new movie",
+      "director": "sam",
+      "year": "2020",
+      "genre": "fun",
+      "IMDB_Rating": "5",
+      "id": 3
     }
   ]
 }
